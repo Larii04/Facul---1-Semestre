@@ -1,0 +1,2 @@
+Dados do game:
+Nome: mario	Console: XBOX ONE	Genero: aventura	Codigo: 12345	Preco: 1200.00$
